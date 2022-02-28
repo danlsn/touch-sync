@@ -371,3 +371,4 @@ cython_debug/
 
 # Config Files
 config.ini
+/output/
